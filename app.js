@@ -4,6 +4,8 @@ const filter = document.querySelector('#filter');
 const clearBtn = document.querySelector('.clear-tasks');
 const taskInput = document.querySelector('#task');
 
+// new comment 
+
 // call lodaEventListners()
 
 loadEventListners();
